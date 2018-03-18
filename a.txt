@@ -1,4 +1,4 @@
-test git learning 
+test GIT learning 
 
 modify this line for branch dev modify this file
 
